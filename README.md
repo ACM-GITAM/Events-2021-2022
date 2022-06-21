@@ -1,5 +1,5 @@
 # Events-2021-2022
-The event record and info repository for all the events conducted by ACM_GITAM in the years 2021-2022
+The event record and info repository for all the events conducted by ACM_GITAM in the years 2021-2022.
 ACM - Association of Computing Machinery, is a Student Chapter at GITAM. Deemed to be University in Visakhapatnam was established with a mission and a vision to nurture the students' professional and all-around development, allowing them to get exposure to Computer Science and its technicalities. ACM GITAM strives to unify the computing fraternity and consolidate the computing/ research in GITAM. We also support a tight-knit Computer Science community among the students and faculty of B-Tech. Specialities: Event Management, Product Design, Computer Science, Workshops, Projects and Competitive Coding.
 
 
